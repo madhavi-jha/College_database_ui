@@ -1,6 +1,4 @@
-// Java program to implement a GUI 
-// application for the student 
-// management system 
+// Java program to implement a GUI application for the student management system 
 
 import javax.swing.*; 
 import java.awt.*; 
